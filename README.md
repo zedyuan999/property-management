@@ -13,6 +13,9 @@
 - vueuse
 - eslint
 - prettier
+- commitizen
+- lint-staged
+- commitlint
 
 **待引入**
 
